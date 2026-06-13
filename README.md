@@ -1,6 +1,6 @@
 # Neural Network From Scratch (C++)
 
-A from-scratch neural network implementation in C++ — no TensorFlow, no PyTorch.
+A from-scratch neural network implementation in C++ - no TensorFlow, no PyTorch.
 
 This project demonstrates core deep learning concepts: **matrix math**, **forward propagation**, **backpropagation**, and **stochastic gradient descent (SGD)**.
 
@@ -121,4 +121,4 @@ W \leftarrow W - \eta \frac{\partial L}{\partial W}
 
 ## License
 
-Educational use — CS-1 Project 2
+Educational use - CS-1 Project 2
